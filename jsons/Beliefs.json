@@ -3,5 +3,25 @@
     "name":"Yahweh Jehovah Jireh",
     "type":"Pantheon",
     "uniques":["Free Great Person","[3] Free Technologies","","[+10 Culture, +20 Gold, +100 Science][in all cities].","[All] Units adjacent to this city heal [+30] HP per turn when healing","[+1]% [Production] from every follower, up to [15]%","[+20]% [Food]"]
+  },
+  {
+    "name":"Jesus Lives",
+    "type":"Founder",
+    "uniques":[
+      "Free Technology",
+      "[+9 Science, +10 Production, +20 Faith] for each global city following this religion",
+      "[+1 Gold, +5 Food, +2 Production] from every [3] global followers [in all cities]"
+    ]
+  },
+  {
+    "name":"Jesus is King",
+    "type":"Follower",
+    "uniques":[
+      "[+1 Gold, +10 Faith, +2 Production] from all [Faith] buildings",
+      "[+20]% Yield from every [Farm]",
+      "[+20]% Great Person generation [in all cities]",
+      "[+20]% [Culture]",
+      "[+15]% Production when constructing [All] wonders [in cities following this religion]"
+    ]
   }
 ]
